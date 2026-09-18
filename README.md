@@ -4,7 +4,7 @@ Growth Operator. Nomadic, with a network across North America, Europe, and the G
 
 This is the actual stack behind the GTM motions at [MPM Labs](https://mpmlabs.xyz), a DIFC-based digital asset venture studio.
 
-**7-figure pipeline generated** &nbsp;·&nbsp; **200+ MAU app, zero paid acquisition** &nbsp;·&nbsp; **20K ICP network built** &nbsp;·&nbsp; **1,000+ live event registrants**
+**7-figure pipeline generated** &nbsp;·&nbsp; **200+ MAU app, zero paid acquisition** &nbsp;·&nbsp; **10+ production tools** &nbsp;·&nbsp; **40K+ lines shipped**
 
 ---
 
