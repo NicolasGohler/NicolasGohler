@@ -1,6 +1,6 @@
 ## Nicolas Goehler
 
-GTM Engineer based in Dubai. I build outbound infrastructure, signal pipelines, and growth tooling for digital asset companies.
+Growth Operator. Nomadic, with a network across North America, Europe, and the GCC. I build outbound infrastructure, signal pipelines, and growth tooling for digital asset companies.
 
 This is the actual stack behind the GTM motions at [MPM Labs](https://mpmlabs.xyz), a DIFC-based digital asset venture studio.
 
