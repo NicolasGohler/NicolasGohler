@@ -2,7 +2,7 @@
 
 Growth Operator. Nomadic, with a network across North America, Europe, and the GCC. I build outbound infrastructure, signal pipelines, and growth tooling for digital asset companies.
 
-This is the actual stack behind the GTM motions at [MPM Labs](https://mpmlabs.xyz), a DIFC-based digital asset venture studio.
+This is the actual stack behind the GTM motions at [MPM Labs](https://mpmlabs.xyz), a DIFC-based digital asset structuring firm.
 
 **7-figure pipeline generated** &nbsp;·&nbsp; **200+ MAU app, zero paid acquisition** &nbsp;·&nbsp; **10+ production tools** &nbsp;·&nbsp; **40K+ lines shipped**
 
