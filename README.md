@@ -1,30 +1,21 @@
 ## Nicolas Goehler
 
-Growth Operator. Nomadic, with a network across North America, Europe, and the GCC. I build outbound infrastructure, signal pipelines, and growth tooling for digital asset companies.
+GTM engineer and founder of [Releasi](https://www.releasi.co). I build buying-signal systems from public data: filings, registers, contract awards, permits and accelerator cohorts.
 
-This is the actual stack behind the GTM motions at [MPM Labs](https://mpmlabs.xyz), a DIFC-based digital asset structuring firm.
+Everything runs in code: Python collectors, Claude Code, and Apollo for contact data.
 
-**7-figure pipeline generated** &nbsp;·&nbsp; **200+ MAU app, zero paid acquisition** &nbsp;·&nbsp; **10+ production tools** &nbsp;·&nbsp; **40K+ lines shipped**
+### Open source
 
----
+**[gtm-public-signals](https://github.com/NicolasGohler/gtm-public-signals)**
+Free collectors that turn public records into dated sales signals: SEC Form D, Companies House, UK contract awards and NPPES. Standard-library Python, with CSV, JSONL or webhook output.
 
-### Tools
+### Guides
 
-**[releasi](https://github.com/NicolasGohler/releasi)**
-LinkedIn outreach platform. Runs multi-account sequences at scale, tracks every lead touchpoint, and surfaces campaign KPIs through a live dashboard.
+- [The HUNGR method for need-led outbound](https://www.releasi.co/resources/hungr-framework)
+- [B2B intent signals playbook](https://www.releasi.co/resources/intent-signals)
+- [Build a lead list from public data with Claude](https://www.releasi.co/resources/pipeline-setup)
+- [Case study: pre-raise founder discovery for an onchain fundraising platform](https://www.releasi.co/work/pre-raise-founder-discovery)
 
-**[fundraising-agent](https://github.com/NicolasGohler/fundraising-agent)**
-Weekly investor prospecting engine. Pulls hiring, funding, and competitor signals from Apollo.io and CryptoRank and delivers a ranked lead list to Slack every Monday.
+### Elsewhere
 
-**[telegram-group-scanner](https://github.com/NicolasGohler/telegram-group-scanner)**
-Signal intelligence for Web3 Telegram communities. Scores messages for buying intent, cross-references Twitter engagement, and sends a weekly digest to Slack.
-
-**[2w3](https://github.com/NicolasGohler/2w3)**
-MPM Labs go-to-market framework for digital asset companies.
-
-**[mpm-neobanks](https://github.com/NicolasGohler/mpm-neobanks)**
-Strategic playbook for Web3 neobank positioning and GTM.
-
----
-
-[linkedin.com/in/nicolas-goehler](https://www.linkedin.com/in/nicolas-goehler)
+[releasi.co](https://www.releasi.co) · [LinkedIn](https://www.linkedin.com/in/nicolas-goehler) · [X](https://x.com/nicolasgoehler) · [Substack](https://substack.com/@nicolasgoehler)
